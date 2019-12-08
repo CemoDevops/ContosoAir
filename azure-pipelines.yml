@@ -1,4 +1,3 @@
-//cemo
 pool:
   vmImage: ubuntu-16.04
 trigger:
